@@ -1,0 +1,4 @@
+CloseLaunch = True # close the launcher when you launch a game?
+Font = "segoeuivariable" # default font used everywhere in the launcher
+playintro = True # play the (super cool) xenia logo animation and sound? (pls enable i spent a day making it its super cool)
+banner_height = 70 # height of the game banners in pixels. <40 and >140 looks weird, choose what you like the most
